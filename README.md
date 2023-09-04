@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in ...
-LEARNING, NEED EXPERIENCE TO GET EXPERIENCE
+LEARNING
 
 - 🌱 I’m currently learning ...
 HTML, CSS, Javascript
