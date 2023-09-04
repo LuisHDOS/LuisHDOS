@@ -8,10 +8,10 @@ LEARNING
 HTML, CSS, Javascript
 
 - 💞️ I’m looking to collaborate on ...
-NOTHING, I AM USELESS (as of now)
+ANYTHING
 
 - 📫 How to reach me ...
-Does GitHub let you DM people? If so, DM me. If not, you can find another way :)
+DM me. :)
 
 <!---
 LuisHDOS/LuisHDOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
